@@ -1,0 +1,21 @@
+
+img{
+    width: 447px;
+}
+
+.merek{
+    font-size: 30px;
+}
+
+.jarak{
+    word-spacing: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .merek {
+        font-size: 30px;
+    }
+    .namtor {
+        font-weight: 500;
+    }
+}

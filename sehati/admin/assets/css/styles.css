@@ -1,0 +1,82 @@
+/* login */
+.login {
+background-color: #F7F7F7;
+margin-top: 9em;
+}
+
+.login .btn {
+    width: 10em;
+    height: 2.5em;
+}
+
+.login .form-control {
+width: 20em;
+margin: 0 auto;
+}
+
+
+/* produk */
+.scroll tbody{
+    clear:both;
+    border:0px solid 3FF6600;
+    height:30em;
+    overflow:auto;
+    float:left;
+    width:94em;
+    background:#ffffff;
+}
+
+/* data tambah kategori */
+.scroll1 tbody{
+    clear:both;
+    border:0px solid 3FF6600;
+    height:15em;
+    overflow:auto;
+    float:left;
+    width:20em;
+    background:#ffffff;
+}
+
+/* data tambah produk */
+.scroll2 tbody{
+    clear:both;
+    border:0px solid 3FF6600;
+    height:25em;
+    overflow:auto;
+    float:left;
+    width:24em;
+    background:#E2E6E7;
+}
+
+/* data user */
+.scroll3 tbody{
+    clear:both;
+    border:0px solid #ffffff;
+    height:35em;
+    overflow:auto;
+    float:left;
+    width:50em;
+    background:#ffffff;
+}
+
+/* data tambah pembelian */
+.scroll4 tbody{
+    clear:both;
+    border:0px solid 3FF6600;
+    height:22em;
+    overflow:auto;
+    float:left;
+    width:94em;
+    background:#ffffff;
+}
+
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+
+
+    
+}
+
+
+
